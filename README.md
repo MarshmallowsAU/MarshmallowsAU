@@ -26,6 +26,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarshmallowsAU&repo=Twitter-User-Scraper&theme=algolia&card_width=500)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarshmallowsAU&repo=Video-Game&theme=algolia&card_width=500)
+
 <h3> Socials </h3>
 
 <p>
