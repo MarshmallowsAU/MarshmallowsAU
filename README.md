@@ -2,7 +2,7 @@
 <br>
 
 <p> Welcome to my GitHub profile and thanks for visiting!</p>
-<p> I'm Jerry, currently a second year mechatronics engineering and computer science student at the University of New South Wales.</p>
+<p> I'm Jerry, currently a final year computer science student majoring in Security Engineering at the University of New South Wales.</p>
 
 <h3> My coding languages: </h3>
 <p>
