@@ -15,19 +15,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3> Some Statistics </h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshmallowsAU&show_icons=true&theme=algolia&card_width=500)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshmallowsAU&layout=compact&theme=algolia&card_width=500)
-
-
-<h3> Current Projects: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarshmallowsAU&repo=Twitter-User-Scraper&theme=algolia&card_width=500)](https://github.com/MarshmallowsAU/Twitter-User-Scraper)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarshmallowsAU&repo=Video-Game&theme=algolia&card_width=500)](https://github.com/MarshmallowsAU/Video-Game)
-
 <h3> Socials </h3>
 
 <p>
